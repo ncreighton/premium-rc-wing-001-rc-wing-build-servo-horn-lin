@@ -1,0 +1,2 @@
+# premium-rc-wing-001-rc-wing-build-servo-horn-lin
+Tired of guessing servo horn angles and linkage lengths mid-build? Stop wasting balsa and rebuilds with a single source of truth for your wing build.  The RC Wing Build &amp; Servo Horn Linkage Hub is the first Notion template purpose-built for organizing every aspect of wing construction, from servo horn selection to linkage endpoint geometry. It repl
